@@ -1,16 +1,13 @@
 <h1 align="center">Ahmed Nayel</h1>
 <h3 align="center">Offensive Security Researcher · Bug Bounty Hunter · CVE Contributor</h3>
 
-<p align="center"><i>"Breaking things to make them safer."</i></p>
-
 <p align="center">
   <a href="https://0xnayel.com">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1100&color=00D9FF&center=true&vCenter=true&width=760&lines=150%2B+vulnerabilities+disclosed+across+40%2B+organizations;7+CVEs+%E2%80%94+kafka-ui+%C2%B7+ProjectSend+%C2%B7+SiYuan+%C2%B7+Scale+PM;Reported+to+Visa+%C2%B7+Indeed+%C2%B7+Atlassian+%C2%B7+Adobe;HackerOne+Top+30+Researchers+%E2%80%94+Egypt;eMAPT+certified+%E2%80%94+OSWE+%2F+eWPTx+%2F+OSCP+self-study" alt="highlights" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=900&color=00D9FF&center=true&vCenter=true&width=640&lines=Penetration+Tester;Security+Researcher;Bug+Bounty+Hunter;CVE+Contributor;CTFer" alt="roles" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://0xnayel.com"><img src="https://img.shields.io/badge/Website-0xnayel.com-00D9FF?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/></a>
   <a href="https://hackerone.com/0xNayel"><img src="https://img.shields.io/badge/HackerOne-494949?style=for-the-badge&logo=hackerone&logoColor=white"/></a>
   <a href="https://bugcrowd.com/h/Nayel"><img src="https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white"/></a>
   <a href="https://linkedin.com/in/0xNayel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -31,15 +28,15 @@ BSc Computers & Data Science — Faculty of Computer & Data Science, Alexandria 
 
 ## CVE Discoveries
 
-<img src="https://img.shields.io/badge/CRITICAL-8E1609?style=flat-square" />&nbsp; **[CVE-2026-5562](https://nvd.nist.gov/vuln/detail/CVE-2026-5562)** — Unauthenticated Remote Code Execution in **kafka-ui**
+<img src="https://img.shields.io/badge/CRITICAL-8E1609?style=flat-square" />&nbsp; **[CVE-2026-5562](https://0xnayel.com/publications/CVE-2026-5562)** — Unauthenticated Remote Code Execution in **kafka-ui**
 
-<img src="https://img.shields.io/badge/HIGH-D63F26?style=flat-square" />&nbsp; **[CVE-2026-4045](https://nvd.nist.gov/vuln/detail/CVE-2026-4045)** — LDAP Injection User Enumeration in **ProjectSend**
+<img src="https://img.shields.io/badge/HIGH-D63F26?style=flat-square" />&nbsp; **[CVE-2026-4045](https://0xnayel.com/publications/CVE-2026-4045)** — LDAP Injection User Enumeration in **ProjectSend**
 
-<img src="https://img.shields.io/badge/HIGH-D63F26?style=flat-square" />&nbsp; **[CVE-2026-4044](https://nvd.nist.gov/vuln/detail/CVE-2026-4044)** — Path Traversal via Arbitrary File Deletion in **ProjectSend**
+<img src="https://img.shields.io/badge/HIGH-D63F26?style=flat-square" />&nbsp; **[CVE-2026-4044](https://0xnayel.com/publications/CVE-2026-4044)** — Path Traversal via Arbitrary File Deletion in **ProjectSend**
 
-<img src="https://img.shields.io/badge/MEDIUM-E0A000?style=flat-square" />&nbsp; **[CVE-2026-23852](https://github.com/siyuan-note/siyuan/security/advisories/GHSA-7c6g-g2hx-23vv)** — Stored XSS to RCE via Dynamic Icons in **SiYuan**
+<img src="https://img.shields.io/badge/MEDIUM-E0A000?style=flat-square" />&nbsp; **[CVE-2026-23852](https://0xnayel.com/publications/CVE-2026-23852)** — Stored XSS to RCE via Dynamic Icons in **SiYuan**
 
-<img src="https://img.shields.io/badge/MEDIUM-E0A000?style=flat-square" />&nbsp; **[CVE-2025-1553](https://nvd.nist.gov/vuln/detail/CVE-2025-1553)** — Stored XSS in **Scale Project Management**
+<img src="https://img.shields.io/badge/MEDIUM-E0A000?style=flat-square" />&nbsp; **[CVE-2025-1553](https://0xnayel.com/publications/CVE-2025-1553)** — Stored XSS in **Scale Project Management**
 
 ---
 
@@ -47,7 +44,7 @@ BSc Computers & Data Science — Faculty of Computer & Data Science, Alexandria 
 
 **Certified**
 
-<img src="https://img.shields.io/badge/eMAPT-Certified-00B386?style=for-the-badge&logo=elasticstack&logoColor=white" />
+<a href="https://certs.ine.com/c78d9de0-381c-4f14-834d-f70c1d76c0ea"><img src="https://img.shields.io/badge/eMAPT-Certified-00B386?style=for-the-badge&logo=elasticstack&logoColor=white" /></a>
 
 **Self-Study**
 

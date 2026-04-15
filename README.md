@@ -8,6 +8,7 @@
 </p>
 
 <p align="center">
+  <a href="https://0xnayel.com"><img src="https://img.shields.io/badge/0xnayel.com-00D9FF?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/></a>
   <a href="https://hackerone.com/0xNayel"><img src="https://img.shields.io/badge/HackerOne-494949?style=for-the-badge&logo=hackerone&logoColor=white"/></a>
   <a href="https://bugcrowd.com/h/Nayel"><img src="https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white"/></a>
   <a href="https://linkedin.com/in/0xNayel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -20,7 +21,7 @@
 
 ## About
 
-Offensive security practitioner based in **Egypt**, with 3+ years of hands-on experience across **web · mobile · network** domains. Reported **150+ valid vulnerabilities** to **40+ organizations**, including coordinated disclosures to **Visa · Indeed · Atlassian · Adobe**. Ranked among the **top 30 researchers in Egypt** on HackerOne. Active in CTFs, open-source security tooling, and public vulnerability research.
+Offensive security practitioner based in **Egypt**, with hands-on experience across **web · mobile · network** domains. Reported valid vulnerabilities to organizations including **Visa · Indeed · Atlassian · Adobe**, with multiple coordinated disclosures and published CVEs. Ranked among the **top researchers in Egypt** on HackerOne. Active in CTFs, open-source security tooling, and public vulnerability research.
 
 BSc Computers & Data Science — Faculty of Computer & Data Science, Alexandria University.
 
@@ -56,13 +57,58 @@ BSc Computers & Data Science — Faculty of Computer & Data Science, Alexandria 
 
 ## Expertise
 
-**Web Application Security** — OWASP Top 10 · Business Logic · Auth Bypass · SSRF · IDOR · SQLi · XSS · CSRF
-
-**Mobile Security** — Android Pentesting · Frida · APK Reverse Engineering · SSL Pinning Bypass
-
-**Secure Code Review** — JavaScript · PHP · Next.js · Python · Manual & Static Analysis
-
-**Recon & Automation** — Subdomain Enumeration · Darkweb Monitoring · Custom Tooling
+<table align="center">
+  <tr>
+    <td align="center" width="220">
+      <img src="https://img.shields.io/badge/Web-EF4444?style=for-the-badge&logoColor=white" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/-OWASP%20Top%2010-1F2937?style=flat-square" />
+      <img src="https://img.shields.io/badge/-Business%20Logic-1F2937?style=flat-square" />
+      <img src="https://img.shields.io/badge/-Auth%20Bypass-1F2937?style=flat-square" />
+      <img src="https://img.shields.io/badge/-SSRF-1F2937?style=flat-square" />
+      <img src="https://img.shields.io/badge/-IDOR-1F2937?style=flat-square" />
+      <img src="https://img.shields.io/badge/-SQLi-1F2937?style=flat-square" />
+      <img src="https://img.shields.io/badge/-XSS-1F2937?style=flat-square" />
+      <img src="https://img.shields.io/badge/-CSRF-1F2937?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Mobile-10B981?style=for-the-badge&logoColor=white" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/-Android%20Pentesting-1F2937?style=flat-square" />
+      <img src="https://img.shields.io/badge/-Frida-1F2937?style=flat-square" />
+      <img src="https://img.shields.io/badge/-APK%20RE-1F2937?style=flat-square" />
+      <img src="https://img.shields.io/badge/-SSL%20Pinning%20Bypass-1F2937?style=flat-square" />
+      <img src="https://img.shields.io/badge/-MobSF-1F2937?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Code%20Review-8B5CF6?style=for-the-badge&logoColor=white" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/-JavaScript-1F2937?style=flat-square" />
+      <img src="https://img.shields.io/badge/-PHP-1F2937?style=flat-square" />
+      <img src="https://img.shields.io/badge/-Next.js-1F2937?style=flat-square" />
+      <img src="https://img.shields.io/badge/-Python-1F2937?style=flat-square" />
+      <img src="https://img.shields.io/badge/-Static%20Analysis-1F2937?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Recon-06B6D4?style=for-the-badge&logoColor=white" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/-Subdomain%20Enum-1F2937?style=flat-square" />
+      <img src="https://img.shields.io/badge/-Darkweb%20Monitoring-1F2937?style=flat-square" />
+      <img src="https://img.shields.io/badge/-Custom%20Tooling-1F2937?style=flat-square" />
+      <img src="https://img.shields.io/badge/-Automation-1F2937?style=flat-square" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -95,11 +141,11 @@ BSc Computers & Data Science — Faculty of Computer & Data Science, Alexandria 
 ## Featured Writeups
 
 <!-- BLOG-LIST:START -->
-- [CVE-2026-5562 — Unauthenticated RCE in kafka-ui](https://0xnayel.com/publications/CVE-2026-5562)
-- [CVE-2026-4045 — LDAP Injection User Enumeration in ProjectSend](https://0xnayel.com/publications/CVE-2026-4045)
-- [CVE-2026-4044 — Path Traversal via Arbitrary File Deletion in ProjectSend](https://0xnayel.com/publications/CVE-2026-4044)
 - [CAT CTF 25 — All Web Challenges Writeups](https://0xnayel.com/publications/cat-ctf-25-web-writeups)
 - [HTB University CTF 2025 — All Web Challenges Walkthrough](https://0xnayel.com/publications/htb-university-ctf-2025-web)
+- [Breaking Boundaries: From Limited Stored XSS to Open Redirect & CSRF Referrer Bypass](https://0xnayel.com/publications/stored-xss-open-redirect-csrf)
+- [Secure Code Review Assessment for Javascript Full Stack (NextJS)](https://0xnayel.com/publications/secure-code-review-nextjs)
+- [Critical $$$$ Bounty from PII Disclosure — Broken Access Control](https://0xnayel.com/publications/pii-disclosure-broken-access)
 <!-- BLOG-LIST:END -->
 
 Full archive at **[0xnayel.com](https://0xnayel.com)**.

@@ -27,9 +27,13 @@ card_re = re.compile(
     r'<h2 class="blog-card-title"><a href="(/publications/[^"]+)">([^<]+)</a>',
     re.DOTALL,
 )
-matches = card_re.findall(page)[:TOP_N]
-if not matches:
+all_matches = card_re.findall(page)
+if not all_matches:
     sys.exit("No posts parsed — the site layout may have changed.")
+
+matches = [m for m in all_matches if not m[1].lower().startswith("/publications/cve-")][:TOP_N]
+if not matches:
+    sys.exit("No non-CVE posts found.")
 
 lines = [
     f"- [{html.unescape(title).strip()}](https://0xnayel.com{href})"

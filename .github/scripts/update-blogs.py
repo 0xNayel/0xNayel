@@ -32,8 +32,8 @@ if not matches:
     sys.exit("No posts parsed — the site layout may have changed.")
 
 lines = [
-    f"- [{html.unescape(title).strip()}](https://0xnayel.com{href}) · {views} views"
-    for views, href, title in matches
+    f"- [{html.unescape(title).strip()}](https://0xnayel.com{href})"
+    for _views, href, title in matches
 ]
 block = START + "\n" + "\n".join(lines) + "\n" + END
 

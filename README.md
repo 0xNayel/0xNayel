@@ -130,10 +130,10 @@ BSc Computers & Data Science — Faculty of Computer & Data Science, Alexandria 
 
 <!-- BLOG-LIST:START -->
 - [No Guardrails](https://0xnayel.com/publications/no-guardrails)
+- [ATO++](https://0xnayel.com/publications/ato-plus)
 - [CAT CTF 25 — All Web Challenges Writeups](https://0xnayel.com/publications/cat-ctf-25-web-writeups)
 - [HTB University CTF 2025 — All Web Challenges Walkthrough](https://0xnayel.com/publications/htb-university-ctf-2025-web)
 - [Breaking Boundaries: From Limited Stored XSS to Open Redirect & CSRF Referrer Bypass](https://0xnayel.com/publications/stored-xss-open-redirect-csrf)
-- [Critical $$$$ Bounty from PII Disclosure — Broken Access Control](https://0xnayel.com/publications/pii-disclosure-broken-access)
 <!-- BLOG-LIST:END -->
 
 Full archive at **[0xnayel.com](https://0xnayel.com)**.
